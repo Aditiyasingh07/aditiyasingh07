@@ -3,9 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditiyasingh07&label=Profile%20views&color=0e75b6&style=flat" alt="aditiyasingh07" /> </p>
 
+
+- 🔭 I’m currently working on **Garbeg**
+
+- 🌱 I’m currently learning **MERN Stack Technology**
+
+- 😏 Personal Portfolio [Adi](https://portfolio-flax-iota-46.vercel.app/)
+
 - 💬 Ask me about **Reactjs, Javascript, AppWrite, Tailwind, HTML, CSS**
 
 - 📫 You can connect with me through this **aditiyavoid01@gmail.com**
+  
 <br></br>
 <h3 align="left">Social Connects:</h3>
 <p align="left">
