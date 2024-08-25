@@ -13,7 +13,6 @@
 - 💬 Ask me about **Reactjs, Javascript, AppWrite, Tailwind, HTML, CSS**
 
 - 📫 You can connect with me through this **aditiyavoid01@gmail.com**
-  
 <br></br>
 <h3 align="left">Social Connects:</h3>
 <p align="left">
