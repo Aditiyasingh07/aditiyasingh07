@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hay, There
 He'll  I am Aditiya Singh 😊<br><br>I completed my graduation in 2023 and currently pursuing MCA final year and also learning MERN stack web development. I have learned front end web development. I am very passionate about my work and I am looking for MERN stack web devlpoment or front end web development intership
 
 
