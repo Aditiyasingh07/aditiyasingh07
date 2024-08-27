@@ -18,7 +18,7 @@
 
 <h3 align="left">Social Connects:</h3>
 <p align="left">
-<a href="https://twitter.com/aditiya0singh" target="blank"><img alt="svgImg" src="https://img.icons8.com/sf-black/64/instagram-new.png"/></a>
+<a href="https://twitter.com/aditiya0singh" target="blank"><img alt="svgImg" src="[https://img.icons8.com/sf-black/64/instagram-new.png](https://iconduck.com/icons/77204/instagram?shared)"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
