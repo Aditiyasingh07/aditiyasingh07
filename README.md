@@ -37,7 +37,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditiyasingh07&show_icons=true&locale=en&layout=compact" alt="aditiyasingh07" /></p>
 
 
-<p  style="background-color:pink"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditiyasingh07&" alt="aditiyasingh07" /></p>
+<p><img  style="background-color:pink" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditiyasingh07&" alt="aditiyasingh07" /></p>
 <br></br>
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=aditiyasingh07&label=Profile%20views&color=0e75b6&style=flat" alt="aditiyasingh07" /> </p>
