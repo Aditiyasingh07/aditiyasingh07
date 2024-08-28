@@ -18,7 +18,8 @@
 
 <h3 align="left">Social Connects:</h3>
 <p align="left">
-<a href="https://twitter.com/aditiya0singh" target="blank"><img alt="svgImg" src="[https://img.icons8.com/sf-black/64/instagram-new.png](https://iconduck.com/icons/77204/instagram?shared)"/></a>
+<a href="https://twitter.com/aditiya0singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditiya0singh" height="30" width="40" /></a>
+<a href="https://instagram.com/aditiyasingh73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditiyasingh73" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
