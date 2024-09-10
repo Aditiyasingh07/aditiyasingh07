@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditiya Singh</h1>
-<h3>A passionate frontend developer from Noida, India I completed my graduation in 2023 and currently pursuing MCA final year and also learning MERN stack web development. I have learned front end web development. I am very passionate about my work and I am looking for MERN stack web devlpoment or front end web development intership</h3>
+<h3>A passionate frontend developer from Noida, India I completed my graduation in 2023 and currently pursuing MCA final year and also learning MERN stack web development. I have learned front end web development. I am very passionate about my work and looking for MERN stack web devlpoment or front end web development intership</h3>
 
 - 🔭 I’m currently working on **Garbeg**
 
